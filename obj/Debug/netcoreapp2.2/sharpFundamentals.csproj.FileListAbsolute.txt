@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/bin/Debug/netcoreapp2.2/sharpFundamentals.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/bin/Debug/netcoreapp2.2/sharpFundamentals.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/bin/Debug/netcoreapp2.2/sharpFundamentals.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/bin/Debug/netcoreapp2.2/sharpFundamentals.dll
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/bin/Debug/netcoreapp2.2/sharpFundamentals.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/obj/Debug/netcoreapp2.2/sharpFundamentals.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/obj/Debug/netcoreapp2.2/sharpFundamentals.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/obj/Debug/netcoreapp2.2/sharpFundamentals.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/obj/Debug/netcoreapp2.2/sharpFundamentals.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/obj/Debug/netcoreapp2.2/sharpFundamentals.dll
+/home/dmkrebsbach/CodingDojo/CSharp/sharpFundamentals/obj/Debug/netcoreapp2.2/sharpFundamentals.pdb
